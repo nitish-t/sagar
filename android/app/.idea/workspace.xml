@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="http" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd9ae745-1b31-44b4-bdf3-4e6afa22768a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/cairo_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/cairo_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/cairo_semibold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/cairo_semibold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/hkgrotesk_medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/hkgrotesk_medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/hkgrotesk_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/hkgrotesk_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/hkgrotesk_semibold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/assets/fonts/hkgrotesk_semibold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/FCM/MyFirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/FCM/MyFirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/CustomSpinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/CustomSpinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/FontsOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/FontsOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/ScaleImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/ScaleImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/TriangleDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/TriangleDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/UImagePauseOnScrollListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/UImagePauseOnScrollListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/Utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/MyPrefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/MyPrefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/modules/Home/HomeListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/modules/Home/HomeListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/modules/Home/Menu/MenuFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/modules/Home/Menu/MenuFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/modules/PreviousRequests/PreviousRequestsListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/modules/PreviousRequests/PreviousRequestsListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/hkgrotesk_medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/hkgrotesk_medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/hkgrotesk_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/hkgrotesk_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/hkgrotesk_semibold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/hkgrotesk_semibold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/lato_medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/lato_medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/lato_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/lato_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/lato_semibold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font-ar/lato_semibold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font/cairo_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font/cairo_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_semibold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/font/hkgrotesk_semibold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/layout/empty_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/layout/empty_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/layout/fragment_meun.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/layout/fragment_meun.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/layout/progressbar_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/layout/progressbar_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/values-ar/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/values-ar/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Driver/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Driver/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/fonts/cairo_bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/fonts/cairo_bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/fonts/cairo_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/fonts/cairo_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/fonts/cairo_semibold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/fonts/cairo_semibold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/FCM/MyFirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/FCM/MyFirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/CustomSpinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/CustomSpinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/FontsOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/FontsOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/ScaleImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/ScaleImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/TriangleDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/TriangleDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/UImagePauseOnScrollListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/UImagePauseOnScrollListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/app/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/app/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/app/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/app/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/app/MyPrefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/app/MyPrefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/model/TSubscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/model/TSubscription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/AdsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/AdsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/AdsImageFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/AdsImageFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/ImageSliderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/ImageSliderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/ImageSliderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/AdsSlider/ImageSliderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/BreakdownServiesListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/BreakdownServiesListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/ChooseCarsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/ChooseCarsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/ChooseCarsListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/ChooseCarsListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyCheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyCheckOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyPaymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyPaymentStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencySubscriptionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencySubscriptionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencySubscriptionServiesListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencySubscriptionServiesListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Home/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Home/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Home/Menu/MenuFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Home/Menu/MenuFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Home/Menu/MenuListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Home/Menu/MenuListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MyCars/AddCarActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MyCars/AddCarActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MyCars/MyCarsListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MyCars/MyCarsListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MySubscriptions/MySubscriptionsListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MySubscriptions/MySubscriptionsListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Notification/NotificationListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Notification/NotificationListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/ServicesOverview/ServicesOverviewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/ServicesOverview/ServicesOverviewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/ServicesOverview/ServicesOverviewListRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/ServicesOverview/ServicesOverviewListRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Setting/SettingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Setting/SettingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Setting/StaticDataActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Setting/StaticDataActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Splash/LoginRegisterGuestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Splash/LoginRegisterGuestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage1Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage1Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage2Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage2Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/anim/right_top_in_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/anim/right_top_in_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/anim/right_top_out_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/anim/right_top_out_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_semibold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/font-ar/hkgrotesk_semibold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/cairo_regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/font/cairo_regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_add_car_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_add_car_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_ads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_ads.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_breakdown_service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_breakdown_service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_choose_cars.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_choose_cars.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_choose_cars_v2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_choose_cars_v2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_demo_request_servies_payment_status.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_demo_request_servies_payment_status.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_emergency_checkout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_emergency_checkout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_emergency_payment_status.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_emergency_payment_status.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_emergency_subscription.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_emergency_subscription.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_forgot_password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_forgot_password.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_images_sliding.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_images_sliding.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_my_cars_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_my_cars_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_my_subscriptions_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_my_subscriptions_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_notificcation_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_notificcation_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_request_servies_payment_status.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_request_servies_payment_status.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_services_overview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_services_overview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/empty_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/empty_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_ads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_ads.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_image_slider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_image_slider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_meun.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_meun.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/notificcation_empty_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/notificcation_empty_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/progressbar_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/progressbar_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/row_my_cars_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/row_my_cars_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/row_my_subscriptions_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/row_my_subscriptions_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/spiner_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/spiner_text.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/toolbar_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/toolbar_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values-ar/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-ar/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_27" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google-services.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Driver/google-services.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Driver/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="42" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_choose_cars_v2.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_contactus.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_demo_request_servies_payment_status.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_emergency_checkout.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6426">
+              <caret line="396" column="41" selection-start-line="396" selection-start-column="33" selection-end-line="396" selection-end-column="41" />
+              <folding>
+                <element signature="e#460#1159#0" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Not Paid</find>
+      <find>order_id</find>
+      <find>Order</find>
+      <find>emergency</find>
+      <find>LAYOUT_DIRECTION_RTL</find>
+      <find>cancel</find>
+      <find>Pay</find>
+      <find>total_price_txt.setText</find>
+      <find>toolbar_back</find>
+      <find>PAY</find>
+      <find>payBtn</find>
+      <find>total_price_txt</find>
+      <find>webView</find>
+      <find>setJavaScriptEnabled</find>
+      <find>.equals</find>
+      <find>login_required_msg</find>
+      <find>this fea</find>
+      <find>your name</find>
+      <find>your_name</find>
+      <find>enter your email</find>
+      <find>submitBtn</find>
+      <find>pay</find>
+      <find>kd</find>
+      <find>KD</find>
+      <find>priseTxt</find>
+      <find>enter_your_email2</find>
+      <find>R.String.KD</find>
+      <find>enter_your_email</find>
+      <find>GetPrise</find>
+      <find>getString(R.string.KD)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\vishal\sagar\Android\LightFixAppliccation\app\src\main\java\com\app\roadz\app</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\vishal\sagar\Android\LightFixAppliccation\userappkey.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build/generated/source/apt/debug/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencySubscriptionServiesListRow.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/row_choose_cars_list.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/ChooseCarsListRow.java" />
+        <option value="$PROJECT_DIR$/build/generated/source/apt/debug/com/app/roadz/modules/Splash/SplashActivity_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Home/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencySubscriptionActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/build/generated/source/apt/debug/com/app/roadz/modules/MyCars/MyCarsListRow_.java" />
+        <option value="$PROJECT_DIR$/build/generated/source/apt/debug/com/app/roadz/modules/Emergency/EmergencyCheckOut_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Splash/LoginRegisterGuestActivity.java" />
+        <option value="$PROJECT_DIR$/google-services.json" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/toolbar_menu.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/ForgotPasswordActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_forgot_password.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage1Fragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage2Fragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/ServicesOverview/ServicesOverviewActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MyCars/AddCarActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/ServicesOverview/ServicesOverviewListRow.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_emergency_payment_status.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_choose_cars.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/FCM/MyFirebaseMessagingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_choose_cars_v2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/ChooseCarsActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MyCars/MyCarsListRow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpActivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/row_my_cars_list.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyPaymentStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Setting/StaticDataActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_emergency_checkout.xml" />
+        <option value="$PROJECT_DIR$/../Driver/src/main/res/values-ar/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_emergency_subscription.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/row_my_subscriptions_list.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyCheckOut.java" />
+        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/values-ar/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/roadz/app/Constants.java" />
+        <option value="$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/Constants.java" />
+        <option value="$PROJECT_DIR$/../Driver/google-services.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LightFixAppliccation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightFixAppliccation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightFixAppliccation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightFixAppliccation" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightFixAppliccation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightFixAppliccation" type="462c0819:PsiDirectoryNode" />
+              <item name="Driver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightFixAppliccation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightFixAppliccation" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_m205f-3201cbef5c0ac589" />
+    <property name="DEBUGGABLE_PROCESS" value="com.app.roadz" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="34518ec3" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-01-24T14:30:15.558Z" />
+    <property name="ExportApk.ApkPath" value="D:\vishal\sagar\Android\LightFixAppliccation\Driver" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Kapil/New folder/InfiniteCabs27Nov/InfiniteCabs" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Driver" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd9ae745-1b31-44b4-bdf3-4e6afa22768a" name="Default Changelist" comment="" />
+      <created>1572961826932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572961826932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18520783" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.3294621" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.53731346" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4987775" weight="0.7396648" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3295063" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" weight="0.3295063" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3295063" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.3295063" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5055012" side_tool="true" weight="0.40757748" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295063" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.49511003" weight="0.41791046" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.25427872" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Fabric" order="4" weight="0.3294621" />
+      <window_info anchor="right" id="Flutter Outline" order="5" weight="0.3294621" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="JSON Utils" order="8" />
+      <window_info anchor="right" id="Json Parser" order="9" weight="0.3294621" />
+      <window_info anchor="right" id="Preview" order="10" weight="0.3789731" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22860636" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.53731346" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.6326062" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3295063" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.3295063" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50061125" side_tool="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" sideWeight="0.49938875" weight="0.3295063" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.25427872" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Fabric" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" weight="0.3294621" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="JSON Utils" order="8" />
+      <window_info anchor="right" id="Json Parser" order="9" />
+      <window_info anchor="right" id="Preview" order="10" weight="0.3294621" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>264</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>356</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>349</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/ForgotPasswordActivity.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage1Fragment.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpActivity.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpActivity.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpActivity.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpActivity.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage1Fragment.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>503</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>505</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>506</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>507</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyPaymentStatus.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyPaymentStatus.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyPaymentStatus.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/ForgotPasswordActivity.java</url>
+          <line>101</line>
+          <properties class="com.app.roadz.modules.User.ForgotPasswordActivity" method="toolbar_back" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/CarSevies/ChooseCarsServicesActivity.java</url>
+          <line>502</line>
+          <properties class="com.app.roadz.modules.Emergency.CarSevies.ChooseCarsServicesActivity" method="UpdateMainView" />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/roadz/FCM/MyFirebaseMessagingService.java</url>
+          <line>99</line>
+          <properties class="com.app.roadz.FCM.MyFirebaseMessagingService" method="sendNotification" />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="ref_id = &quot;#100488&quot;" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>remoteMessage.getNotification().getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>remoteMessage</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.body().getError()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>extras_.getBoolean(FROM_REGISTER_EXTRA)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/app/MyPrefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/app/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencySubscriptionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage1Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/MyCars/AddCarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/generated/source/apt/debug/com/app/roadz/modules/Setting/StaticDataActivity_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="169" column="50" selection-start-line="169" selection-start-column="50" selection-end-line="169" selection-end-column="50" />
+          <folding>
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1695#1696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/User/SignUp/SignUpPage2Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-740">
+          <caret line="303" column="73" selection-start-line="303" selection-start-column="73" selection-end-line="303" selection-end-column="73" />
+          <folding>
+            <element signature="e#13108#13223#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_meun.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="391" column="59" selection-start-line="391" selection-start-column="59" selection-end-line="391" selection-end-column="59" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_sign_up_page2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="394" column="50" selection-start-line="394" selection-start-column="41" selection-end-line="394" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/notificcation_empty_view.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/popup_call.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/popup_message.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/popup_notification.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/progressbar_item.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/model/TSubscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/api/RetrofitHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+          <folding>
+            <element signature="e#822#1071#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/api/HeaderInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/Utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="85" column="25" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#InitWebData#1;class#Utils#0" />
+            <element signature="method#showOkDialogWithAction#0;class#Utils#0" />
+            <element signature="method#showOkDialogWithAction2#0;class#Utils#0" />
+            <element signature="method#GetMapBitMap#0;class#Utils#0" />
+            <element signature="method#LoginDialog#0;class#Utils#0" />
+            <element signature="method#LogoutDialog#0;class#Utils#0" />
+            <element signature="method#ChangeLanguage#0;class#Utils#0" />
+            <element signature="method#Rotate#0;class#Utils#0" />
+            <element signature="method#GetRotate#0;class#Utils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_add_car_list.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/api/BaseCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/api/HeaderInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/api/RetrofitHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/api/Response/Pagination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_choose_cars.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_request_servies_payment_status.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="56" column="33" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/src/main/res/values-ar/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_emergency_subscription.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="110" column="38" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
+          <folding>
+            <element signature="e#4245#4264#0" expanded="true" />
+            <element signature="e#5123#5135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/modules/Emergency/EmergencyCheckOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="432" column="31" lean-forward="true" selection-start-line="432" selection-start-column="31" selection-end-line="432" selection-end-column="31" />
+          <folding>
+            <element signature="e#16792#16841#0" expanded="true" />
+            <element signature="e#16876#16913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/row_my_subscriptions_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="231" column="29" selection-start-line="231" selection-start-column="29" selection-end-line="231" selection-end-column="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_ads.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="204" column="52" selection-start-line="204" selection-start-column="52" selection-end-line="204" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values-ar/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="34" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/roadz/app/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="115" column="103" selection-start-line="115" selection-start-column="103" selection-end-line="115" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="81" selection-start-line="85" selection-start-column="55" selection-end-line="85" selection-end-column="81" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4947">
+          <caret line="291" column="18" selection-start-line="287" selection-start-column="8" selection-end-line="291" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/src/main/java/com/app/roadzdriver/app/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_breakdown_service.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/google-services (2).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="90" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_choose_cars_v2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_contactus.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_demo_request_servies_payment_status.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_emergency_checkout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6426">
+          <caret line="396" column="41" selection-start-line="396" selection-start-column="33" selection-end-line="396" selection-end-column="41" />
+          <folding>
+            <element signature="e#460#1159#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Driver/google-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
